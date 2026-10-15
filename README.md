@@ -1,4 +1,4 @@
-# AI Character Passport - AI 剧本分镜架构师
+# AI Character Passport (AI 剧本分镜架构师)
 
 这是一个基于 Next.js 和 React 构建的 **AI 视频剧本分镜架构师** 系统（AI Video Director）。它能够帮助导演和编剧快速将视频剧本拆解为标准的镜头脚本，支持提取视频帧、角色人设配置、一键翻译 Prompt、以及多镜头智能排版，可轻松指导 AI 视频生成工具（如即梦、Luma, Kling, Runway, CogVideo 等）生成视频。
 
